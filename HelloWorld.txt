@@ -1,4 +1,4 @@
-Hello World£¡
+Hello WorldÂ£Â¡
 
 Hello administrator!
 
@@ -8,3 +8,5 @@ Now, I'm editing the file in a new branch "dev".
 Let's see what function it can performance then.
 
 --------CUT LINE--------
+
+This is an edition done on GitHub online.
