@@ -9,5 +9,5 @@ Let's see what function it can performance then.
 
 --------CUT LINE--------
 
-Ver 3.1(Alpha): edit on master
+3.1: edition on dev
 
