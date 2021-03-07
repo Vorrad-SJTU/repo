@@ -3,3 +3,6 @@ Hello World£¡
 Hello administrator!
 
 Add one line here.
+
+Now, I'm editing the file in a new branch "dev".
+Let's see what function it can performance then.
